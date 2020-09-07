@@ -1,0 +1,135 @@
+Total song: 200
+Total artists is: 132
+Artist                 occurrence
+Cardi B                    1
+Maluma                     4
+24kGoldn                   1
+BTS                        2
+Harry Styles               3
+The Weeknd                 2
+Jawsh 685                  1
+DaBaby                     1
+Drake                      3
+BLACKPINK                  2
+Conan Gray                 1
+Pop Smoke                  6
+SAINt JHN                  1
+KAROL G                    2
+Topic                      1
+Joel Corry                 1
+DJ Khaled                  2
+J Balvin                   3
+Ozuna                      4
+Jay Wheeler                1
+Nio Garcia                 1
+Internet Money             2
+Tones And I                1
+Juice WRLD                 10
+Rauw Alejandro             2
+Tate McRae                 1
+Lady Gaga                  2
+Lewis Capaldi              3
+Sech                       2
+Miley Cyrus                2
+Tainy                      1
+Powfu                      1
+Jack Harlow                2
+Lil Mosey                  1
+Chris Brown                2
+Dua Lipa                   3
+Aya Nakamura               1
+Surf Mesa                  1
+Black Eyed Peas            2
+Ava Max                    1
+Ariana Grande              2
+Jason Derulo               1
+Labrinth                   1
+Trueno                     1
+Post Malone                3
+Roddy Ricch                1
+StaySolidRocky             1
+KHEA                       1
+Calvin Harris              1
+Jerry Di                   1
+Travis Scott               4
+Trevor Daniel              1
+Shawn Mendes               1
+Maroon 5                   2
+BØRNS                      1
+Machine Gun Kelly          1
+Niack                      1
+SZA                        1
+Billie Eilish              5
+Super Yei                  1
+Doja Cat                   2
+Anuel AA                   1
+ROSALÍA                    1
+Marshmello                 2
+Arizona Zervas             1
+Taylor Swift               2
+Justin Bieber              1
+Curtis Waters              1
+Feid                       1
+Surfaces                   1
+Future                     1
+Camilo                     2
+JP Saxe                    1
+Regard                     2
+Big Sean                   2
+Imagine Dragons            1
+THE SCOTTS                 1
+Kane Brown                 1
+salem ilese                1
+BENEE                      1
+WhoHeem                    1
+Bad Bunny                  2
+Jonas Esticado             1
+Saweetie                   1
+Jul                        1
+6ix9ine                    1
+Bea Miller                 1
+Queen                      2
+Don Toliver                1
+XXXTENTACION               3
+Harry Nach                 1
+Melanie Martinez           1
+blackbear                  1
+James Arthur               1
+Ed Sheeran                 4
+Eminem                     1
+Jhay Cortez                1
+Wallows                    1
+Bonez MC                   1
+Mc Zaac                    1
+Kendrick Lamar             1
+Justin Quiles              1
+Megan Thee Stallion        1
+ITZY                       1
+Polo G                     2
+BANNERS                    1
+Gunna                      1
+Kygo                       1
+John Legend                1
+MEDUZA                     1
+The Kid LAROI              1
+Os Barões Da Pisadinha     1
+Manuel Turizo              1
+Farruko                    1
+Dean Lewis                 1
+The Chainsmokers           1
+Halsey                     1
+Alex Rose                  1
+Tame Impala                1
+Kina                       1
+Passenger                  1
+Peach Tree Rascals         1
+Noah Cyrus                 1
+Journey                    1
+Lil Peep                   1
+K/DA                       1
+The Neighbourhood          1
+Mc Jacare                  1
+Nea                        1
+Lil Baby                   1
+Morgan Wallen              1
+The Killers                1
