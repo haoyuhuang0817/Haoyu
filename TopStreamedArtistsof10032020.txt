@@ -1,0 +1,124 @@
+"21 Savage", 15
+"Anuel AA", 1
+"Ariana Grande", 2
+"Arizona Zervas", 1
+"Ava Max", 1
+"Aya Nakamura", 1
+"Bad Bunny", 2
+"Big Sean", 1
+"Billie Eilish", 4
+"Black Eyed Peas", 1
+"Bryson Tiller", 1
+"Chris Brown", 1
+"Clean Bandit", 1
+"Conan Gray", 1
+"Curtis Waters", 1
+"Daddy Yankee", 1
+"Dean Lewis", 1
+"DJ Khaled", 2
+"Doja Cat", 1
+"Don Toliver", 1
+"Dua Lipa", 3
+"Ed Sheeran", 4
+"Fleetwood Mac", 1
+"Harry Styles", 3
+"Imagine Dragons", 1
+"Internet Money", 2
+"J Balvin", 3
+"Jack Harlow", 1
+"James Arthur", 1
+"Jason Derulo", 1
+"Jawsh 685", 2
+"Jay Wheeler", 1
+"Jerry Di", 1
+"Jhay Cortez", 1
+"Joel Corry", 1
+"John Legend", 1
+"Jonas Esticado", 1
+"JP Saxe", 1
+"Juice WRLD", 6
+"Justin Bieber", 2
+"Justin Quiles", 1
+"Kane Brown", 1
+"KAROL G", 2
+"Lady Gaga", 2
+"Lele Pons", 1
+"Lewis Capaldi", 2
+"Lil Mosey", 1
+"Machine Gun Kelly", 2
+"Manuel Turizo", 1
+"Maroon 5", 1
+"Master KG", 1
+"MC Rogerinho", 1
+"Megan Thee Stallion", 1
+"Melanie Martinez", 1
+"Miley Cyrus", 2
+"Money Man", 1
+"Nio Garcia", 1
+"Os Barões Da Pisadinha", 1
+"Polo G", 1
+"Pop Smoke", 7
+"Post Malone", 3
+"Rauw Alejandro", 2
+"Ritt Momney", 1
+"Roddy Ricch", 1
+"SAINt JHN", 1
+"salem ilese", 1
+"Sam Smith", 1
+"Shawn Mendes", 2
+"Super Yei", 1
+"Surf Mesa", 1
+"Tame Impala", 1
+"Tate McRae", 1
+"Taylor Swift", 1
+"The Neighbourhood", 1
+"THE SCOTTS", 1
+"The Weeknd", 2
+"Tones And I", 1
+"Travis Scott", 4
+"Trevor Daniel", 1
+Anitta, 1
+Ashnikko, 1
+BANNERS, 1
+BENEE, 1
+blackbear, 1
+BLACKPINK, 8
+BTS, 1
+BØRNS, 1
+Camilo, 3
+DaBaby, 1
+Drake, 2
+Eminem, 1
+Farruko, 1
+Feid, 1
+Future, 1
+Halsey, 1
+Joji, 1
+Jul, 1
+KHEA, 1
+Labrinth, 1
+Maluma, 1
+Maluma, 1
+Maluma, 1
+Marshmello, 3
+MEDUZA, 1
+Niack, 1
+Oasis, 1
+Ofenbach, 1
+Ozuna, 4
+Powfu, 1
+Queen, 1
+Regard, 1
+ROSALÍA, 1
+Samra, 1
+Sech, 2
+StaySolidRocky, 1
+Surfaces, 1
+Tainy, 1
+Topic, 1
+Trueno, 1
+Vedo, 1
+Wallows, 1
+WhoHeem, 1
+XXXTENTACION, 2
+ZAYN, 1
